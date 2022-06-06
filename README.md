@@ -6,4 +6,4 @@ Este es el repositorio de una app que muestra el clima de una ciudad pasada como
 
 Funcionamiento:
 
-- run "npm i && npm start" 
+ejecuta 'npm i && npm start'
